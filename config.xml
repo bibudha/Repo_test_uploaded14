@@ -52,7 +52,7 @@
     <preference name="SuppressesIncrementalRendering" value="false" />
     <preference name="TopActivityIndicator" value="gray" />
 	
-	<gap:plugin name="BarcodeScanner"/> <!-- latest release -->
+	<gap:plugin name="BarcodeScanner" /> <!-- latest release -->
 
     <feature name="Geolocation">
       <param name="ios-package" value="CDVLocation"/>
